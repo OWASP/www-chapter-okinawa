@@ -1,54 +1,103 @@
 ---
-
 layout: col-sidebar
 title: OWASP Okinawa
-tags: example-tag
+tags: okinawa
 level: 0
-
 region: Asia/Pacific
-
-auto-migrated: 1
-
 ---
 
+# OWASP Okinawaチャプターのホームページへようこそ
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+OWASP - Open Web Application Security Project とは、Webをはじめとするソフトウェアのセキュリティ環境の現状、またセキュアなソフトウェア開発を促進する技術・プロセスに関する情報共有と普及啓発を目的としたプロフェッショナルの集まる、オープンソース・ソフトウェアコミュニティです。The OWASP Foundationは、NPO団体として全世界のOWASPの活動を支えています。
 
-{front matter for this file}
+OWASP Okinawaチャプターは日本で6番目に発足したローカルチャプターです。
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+## Sponsorship/Membership
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+OWASPの各Projectやチャプターの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらはメンバーシップ会費やチャプターサポーターによるスポンサーなどのコントリビューションによって賄われています。
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+ローカルチャプターのスポンサーはOWASP Foundationを通してお申し込みください。詳細は
+OWASP.orgのMembershipのLocal Chapter Supporterをご確認ください。皆様のご支援を歓迎しています。
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+また、個人会員、企業会員、またアカデミックサポーターになることの価値についてもぜひご検討ください。
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+OWASP Okinawaチャプターは個人会員の皆様や下記の企業様、学校様のご支援を受けています。ありがとうございます。
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+### Local Chapter Supporter
 
-```
-{info.md}
+<table cellpadding="15" cellspacing="0">
+    <tr>
+        <td><a href="https://www.cyberagent.co.jp/" target="_blank" rel="noopener"><img src="assets/images/ca_logo_rgb_150x45.png" alt="株式会社サイバーエージェント"></a></td>
+        <td><a href="https://www.ca-adv.co.jp/" target="_blank" rel="noopener"><img src="assets/images/caadvance_logo_150x45.png" alt="株式会社シーエー・アドバンス"></a></td>
+    </tr>
+</table>
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+### Single Meeting Supporter
 
-{leaders.md}
+過去1年間に会場をご提供頂いた企業様、学校様です。
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+* [学校法人ＫＢＣ学園　専修学校 国際電子ビジネス専門学校](http://www.kbc.ac.jp/) 様
+* [株式会社サイダス](http://www.cydas.com/) 様
+* [株式会社モノクラム](https://www.monocram.co.jp/) 様
 
--->
+## Owasp Okinawaに参加するには
+
+* OWASP Okinawaが主催・参画するイベントに、どうぞご参加ください。
+    * ローカルチャプターミーティングとして、およそ、3ヶ月に一度の頻度でイベントを開催しています。
+* [OWASP Okinawaメーリングリスト](https://groups.google.com/a/owasp.org/forum/#!forum/okinawa-chapter/join)に参加してください。  
+  イベント開催情報の告知などが行われます。
+    * [Googleグループ](https://groups.google.com/a/owasp.org/d/forum/okinawa-chapter)に移行する前のメールアーカイブは[こちら](http://lists.owasp.org/pipermail/owasp-okinawa/)です。
+* ソーシャル・ネットワークもあります。
+    *  Twitter: [@OwaspOkinawa](http://www.twitter.com/owaspokinawa)
+    * Facebook: [OWASP Okinawa](https://www.facebook.com/owaspokinawa/)
+
+## メーリングリストへの参加方法
+
+* メーリングリストに参加したいGoogleアカウント(@owasp.orgや@gmail.comなど)でログインした状態で[OWASP Okinawaメーリングリスト](https://groups.google.com/a/owasp.org/forum/#!forum/okinawa-chapter/join)にアクセスして「グループへの参加を申し込む」をクリックしてください。  
+  あるいは[このリンク](https://groups.google.com/a/owasp.org/forum/#!forum/okinawa-chapter/join)をクリックしてください。
+* Googleアカウントをお持ちでない場合は okinawa-chapter+subscribe＠owasp.org 宛にメールを送信してください(＠を半角@に変換してください)  
+  その後届くメールに返信することで参加のリクエストが送信されます。残念ながら購読を止めたい場合は okinawa-chapter+unsubscribe＠owasp.org 宛にメールを送信してください(＠を半角@に変換してください)
+
+それぞれの参加方法の詳細はこちらの資料をご確認ください(日本語翻訳の作成に感謝します)  
+https://docs.google.com/document/d/1sSZQRYZvsBbvu9c-okKID53RlmIc79xS8zRRnguR1uk
+
+## 次回のイベント
+
+OWASP OkinawaはOWASP Eveningとして、セミナーや持ち込みのライトニングトークの形で行われる、Webセキュリティに関心のある方が集う、楽しくカジュアルな勉強会を開催しています。スキル、役職、業種、国籍、性別、年齢関係なく、遠慮なくお越しください。およそ、3ヶ月に一度の頻度で、このミーティングを開催していきます。
+
+### 2019/12/13 OWASP Evening Okinawa #14
+
+* 日時: 12月13日金曜日 18:30スタート
+    * 会場: 株式会社モノクラム 様
+    * 入場無料
+    * 定員 : 30人
+    * 事前登録/registration(ドタキャン禁止・事前登録必要): https://owasp-okinawa.doorkeeper.jp/events/100700
+* プログラム
+    * セッション「OWASP Top 10 2017 A8:2017 - 安全でないデシリアライゼーション」伊波さん(15分)
+    * セッション「自動で脆弱性診断を行うOWASP ZAP環境(in docker)の話」飯田さん(30分)
+    * LT
+        * 「タイトル未定」島尻さん(10分)
+        * 「開発未経験者がセキュリティエンジニアとしてキャリアを模索する話 Part2」石嶺さん(10分)
+        * 「Road to Ethical Hacker」多和田さん(10分)
+
+## 会員制度 / チャプタースポンサーシップ
+
+OWASPの各Projectやチャプターの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらはメンバーシップ会費やチャプターサポーターによるスポンサーなどのコントリビューションによって賄われています。
+
+### 会員制度 OWASP.orgの、Membershipのページをご覧ください。
+
+* 企業・団体様: 年間5000ドル。この範囲で支援プロジェクトのAllocationを行うことができます。ぜひ、OWASP Japan Chapterをご指定ください。
+    * Membershipページへのブランド掲載。Japanサイトへの掲載。(JapanをAllocationいただいた場合)
+    * OWASPグローバルイベントにおける特典
+  
+* 個人: 年間50ドル(グローバル)、500ドル(ライフタイム)
+    * owasp.org メールアドレス付与
+    * 会員限定のニュース配信
+    * OWASPの組織の投票への参加
+    * ローカルミーティングへの優先入場を提供することもあります。
+
+### ローカル・スポンサーシップ
+
+* OWASP Japan チャプター支援として上記の会員制度とは別に500ドルのご寄付から受け付けています。
+* OWASP Foundationを通してお申し込みください：詳細は、Local Chapter Supporterをご覧くださり、500ドルのドネーションをお申し込みください。
+* ローカル・スポンサーシップにお申し込み頂いた場合はこのページにロゴの掲示、リンクの設置をいたします。
