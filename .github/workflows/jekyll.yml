@@ -1,0 +1,19 @@
+name: Jekyll site CI
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set environment
+      run: |
+        echo "repository: ${{ github.repository }}" >> ${{ github.workspace }}/_config.yml
+    - name: Build the site in the jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/jekyll:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
