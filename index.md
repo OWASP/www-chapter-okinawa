@@ -65,13 +65,13 @@ https://docs.google.com/document/d/1sSZQRYZvsBbvu9c-okKID53RlmIc79xS8zRRnguR1uk
 
 OWASP OkinawaはOWASP Eveningとして、セミナーや持ち込みのライトニングトークの形で行われる、Webセキュリティに関心のある方が集う、楽しくカジュアルな勉強会を開催しています。スキル、役職、業種、国籍、性別、年齢関係なく、遠慮なくお越しください。およそ、3ヶ月に一度の頻度で、このミーティングを開催していきます。
 
-### 2019/12/13 OWASP Evening Okinawa #14
+### 2019/12/13 OWASP Evening Okinawa \#14
 
 * 日時: 12月13日金曜日 18:30スタート
     * 会場: 株式会社モノクラム 様
     * 入場無料
     * 定員 : 30人
-    * 事前登録/registration(ドタキャン禁止・事前登録必要): https://owasp-okinawa.doorkeeper.jp/events/100700
+    * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/100700>
 * プログラム
     * セッション「OWASP Top 10 2017 A8:2017 - 安全でないデシリアライゼーション」伊波さん(15分)
     * セッション「自動で脆弱性診断を行うOWASP ZAP環境(in docker)の話」飯田さん(30分)
@@ -89,7 +89,6 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 * 企業・団体様: 年間5000ドル。この範囲で支援プロジェクトのAllocationを行うことができます。ぜひ、OWASP Japan Chapterをご指定ください。
     * Membershipページへのブランド掲載。Japanサイトへの掲載。(JapanをAllocationいただいた場合)
     * OWASPグローバルイベントにおける特典
-  
 * 個人: 年間50ドル(グローバル)、500ドル(ライフタイム)
     * owasp.org メールアドレス付与
     * 会員限定のニュース配信
