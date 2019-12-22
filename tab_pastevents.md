@@ -1,5 +1,6 @@
 ---
-title: 過去のイベント
+title: pastevents
+displaytext: 過去のイベント
 layout:  null
 tab: true
 order: 1
@@ -15,7 +16,7 @@ tags: okinawa
 * 日時: 10月12日土曜日 13:00スタート
     * 会場: 株式会社モノクラム様
     * 入場無料
-    * 定員 : 20人
+    * 定員: 20人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/97237>
 * プログラム
     * ワークショップ「Attack & Defense」
@@ -25,7 +26,7 @@ tags: okinawa
 * 日時: 09月13日金曜日 18:30スタート
     * 会場: 国際電子ビジネス専門学校 様
     * 入場無料
-    * 定員 : 30人
+    * 定員: 30人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/96584>
 * プログラム
     * セッション「OWASP Top 10 2017 A7:2017 - クロスサイトスクリプティング (XSS)」多和田さん(30分)
@@ -39,7 +40,7 @@ tags: okinawa
 * 日時: 06月21日土曜日 13:00スタート
     * 会場: 株式会社モノクラム様
     * 入場無料
-    * 定員 : 15人
+    * 定員: 15人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/93030>
 * プログラム
     * ワークショップ「Attack & Defense」
@@ -49,7 +50,7 @@ tags: okinawa
 * 日時: 06月21日金曜日 18:30スタート
     * 会場: 株式会社モノクラム様
     * 入場無料
-    * 定員 : 30人
+    * 定員: 30人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/92628>
 * プログラム
     * セッション「OWASP Top 10 2017 A6:不適切なセキュリティ設定」大木さん(30分)
@@ -63,7 +64,7 @@ tags: okinawa
 * 日時: 03月07日木曜日 18:30スタート
     * 会場: 株式会社サイダス様
     * 入場無料
-    * 定員 : 30人
+    * 定員: 30人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/87084>
 * プログラム
     * セッション「[OWASP Top 10 A5_2017 アクセス制御の不備](https://speakerdeck.com/owaspokinawa/owasp-top-10-a5-2017-akusesuzhi-yu-falsebu-bei)」稲福さん(30分)
@@ -79,7 +80,7 @@ tags: okinawa
 * 日時: 12月14日金曜日 18:30スタート
     * 会場: 国際電子ビジネス専門学校様
     * 入場無料
-    * 定員 : 35人
+    * 定員: 35人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/83993>
 * プログラム
     * セッション「スコシダケしっているオジサンへセツメイするためのXML EXTERNAL ENTITY ATTACK」植草さん(30分)
@@ -93,7 +94,7 @@ tags: okinawa
 * 日時: 08月31日金曜日 18:30スタート
     * 会場: 国際電子ビジネス専門学校様
     * 入場無料
-    * 定員 : 30人
+    * 定員: 30人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/78221>
 * プログラム
     * 「OWASP Top 10 2017 A3:2017-機微な情報の露出」大城 聖也さん(30分)
@@ -102,14 +103,14 @@ tags: okinawa
         * 「Androidのパケットキャプチャと位置情報のちょっと怖い話」大城 裕紀さん(10分)
         * 「401 Injection」安里 悠矢さん(10分)
         * 「DEFCON参加レポート」牧田 誠さん(10分)
-        *  「支援する人の ここだけの話」チャプターリーダー(15分)
+        * 「支援する人の ここだけの話」チャプターリーダー(15分)
 
 #### 2018/06/08 OWASP Evening Okinawa \#8
 
 * 日時: 06月08日金曜日 18:30スタート
     * 会場: 国際電子ビジネス専門学校様
     * 入場無料
-    * 定員 : 30人
+    * 定員: 30人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/75583>
 * プログラム
     * 「[A2:2017-認証の不備](https://speakerdeck.com/shiromat/owasp-top-10-ren-zheng-falsebu-bei-in-owasp-okinawa-2018-dot-6-8)」shiromaさん(30分)
@@ -123,7 +124,7 @@ tags: okinawa
 * 日時: 03月31日土曜日 17:30スタート
     * 会場: 国際電子ビジネス専門学校様
     * 入場無料
-    * 定員 : 30人
+    * 定員: 30人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/72063>
 * プログラム
     * 「[OWASP Top 10 - 2017 について学ぼう！（A1:2017-インジェクション）](https://www.slideshare.net/tobaru_yuta/owaspeveningokinawa7owasptop102017injection)」ChapterLeader(60分)
@@ -138,7 +139,7 @@ tags: okinawa
 * 日時: 12月22日金曜日 18:30スタート
     * 会場: 株式会社モノクラム様
     * 入場無料
-    * 定員 : 35人
+    * 定員: 35人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/68507>
 * プログラム
     * 「[診断ツールの使い方](https://www.slideshare.net/ssuser3b2d7b/owasp-zap-84865675)」稲福 真悟さん(30分)
@@ -155,7 +156,7 @@ tags: okinawa
 * 日時: 09月30日土曜日 10:30スタート
     * 会場: 国際電子ビジネス専門学校様
     * 入場無料
-    * 定員 : 30人
+    * 定員: 30人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/64051>
 * プログラム
     * 東京で開催される"OWASP World Training Tour 2017 TOKYO"の中継サテライト開催です
@@ -168,7 +169,7 @@ tags: okinawa
 * 日時: 07月08日土曜日 17:30スタート
     * 会場: 国際電子ビジネス専門学校様
     * 入場無料
-    * 定員 : 30人
+    * 定員: 30人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/62489>
 * プログラム
     * 「OWASP UPDATE(仮)」ChapterLeader(30分)
@@ -187,7 +188,7 @@ tags: okinawa
 * ~~日時: 06月17日土曜日 17:30スタート~~
     * ~~会場: 国際電子ビジネス専門学校様~~
     * ~~入場無料~~
-    * ~~定員 : 30人~~
+    * ~~定員: 30人~~
     * ~~事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/61394>~~
 * ~~プログラム~~
     * ~~「OWASP UPDATE（仮）」ChapterLeader（30分）~~
@@ -202,7 +203,7 @@ tags: okinawa
 * 日時: 03月31日金曜日 18:30スタート
     * 会場: 国際電子ビジネス専門学校様
     * 入場無料
-    * 定員 : 30人
+    * 定員: 30人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/58869>
 * プログラム
     * LT
@@ -219,7 +220,7 @@ tags: okinawa
 * 日時: 11月30日水曜日 17:00スタート
     * 会場: 国際電子ビジネス専門学校様
     * 入場無料
-    * 定員 : 30人
+    * 定員: 30人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/54308>
 * プログラム
     * 「Hardeningって なんね？」淵上さん
@@ -231,7 +232,7 @@ tags: okinawa
 * 日時: 7月23日土曜日 15:00スタート
     * 会場: 国際電子ビジネス専門学校様
     * 入場無料
-    * 定員 : 26人
+    * 定員: 26人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/47384>
 * プログラム
     * 「CISSPならこう考える \#1 情報セキュリティの基本とリスクマネジメント」淵上さん
@@ -245,7 +246,7 @@ tags: okinawa
 * 日時: 4月2日土曜日 14:00スタート
     * 会場: 国際電子ビジネス専門学校様
     * 入場無料
-    * 定員 : 20人
+    * 定員: 20人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/41031>
 * プログラム
     * 「JapanChapterより魂のメッセージ」岡田さん

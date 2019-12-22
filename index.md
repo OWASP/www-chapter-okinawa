@@ -48,7 +48,7 @@ OWASP Okinawaチャプターは個人会員の皆様や下記の企業様、学�
   イベント開催情報の告知などが行われます。
     * [Googleグループ](https://groups.google.com/a/owasp.org/d/forum/okinawa-chapter)に移行する前のメールアーカイブは[こちら](http://lists.owasp.org/pipermail/owasp-okinawa/)です。
 * ソーシャル・ネットワークもあります。
-    *  Twitter: [@OwaspOkinawa](http://www.twitter.com/owaspokinawa)
+    * Twitter: [@OwaspOkinawa](http://www.twitter.com/owaspokinawa)
     * Facebook: [OWASP Okinawa](https://www.facebook.com/owaspokinawa/)
 
 ## メーリングリストへの参加方法
@@ -59,7 +59,7 @@ OWASP Okinawaチャプターは個人会員の皆様や下記の企業様、学�
   その後届くメールに返信することで参加のリクエストが送信されます。残念ながら購読を止めたい場合は okinawa-chapter+unsubscribe＠owasp.org 宛にメールを送信してください(＠を半角@に変換してください)
 
 それぞれの参加方法の詳細はこちらの資料をご確認ください(日本語翻訳の作成に感謝します)  
-https://docs.google.com/document/d/1sSZQRYZvsBbvu9c-okKID53RlmIc79xS8zRRnguR1uk
+<https://docs.google.com/document/d/1sSZQRYZvsBbvu9c-okKID53RlmIc79xS8zRRnguR1uk>
 
 ## 次回のイベント
 
@@ -70,7 +70,7 @@ OWASP OkinawaはOWASP Eveningとして、セミナーや持ち込みのライト
 * 日時: 12月13日金曜日 18:30スタート
     * 会場: 株式会社モノクラム 様
     * 入場無料
-    * 定員 : 30人
+    * 定員: 30人
     * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/100700>
 * プログラム
     * セッション「OWASP Top 10 2017 A8:2017 - 安全でないデシリアライゼーション」伊波さん(15分)
@@ -84,7 +84,7 @@ OWASP OkinawaはOWASP Eveningとして、セミナーや持ち込みのライト
 
 OWASPの各Projectやチャプターの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらはメンバーシップ会費やチャプターサポーターによるスポンサーなどのコントリビューションによって賄われています。
 
-### 会員制度 OWASP.orgの、Membershipのページをご覧ください。
+### 会員制度 OWASP.orgの、Membershipのページをご覧ください
 
 * 企業・団体様: 年間5000ドル。この範囲で支援プロジェクトのAllocationを行うことができます。ぜひ、OWASP Japan Chapterをご指定ください。
     * Membershipページへのブランド掲載。Japanサイトへの掲載。(JapanをAllocationいただいた場合)
