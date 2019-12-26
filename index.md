@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP Okinawa
 tags: okinawa
 level: 0
-region: Asia/Pacific
+region: Asia
 ---
 
 # OWASP Okinawaチャプターのホームページへようこそ
