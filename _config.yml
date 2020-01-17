@@ -1,4 +1,5 @@
 remote_theme: "owasp/www--site-theme"
+github: [metadata]
 plugins:
   - jekyll-include-cache-0.2.0
 exclude:
