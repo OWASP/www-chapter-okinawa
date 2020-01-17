@@ -3,4 +3,5 @@ env
 .vscode/
 _site/
 vendor/
+.jekyll-metadata
 Gemfile.lock
