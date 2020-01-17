@@ -1,6 +1,5 @@
 #repository: "OWASP/www-chapter-okinawa"
 remote_theme: "owasp/www--site-theme"
-github: [metadata]
 plugins:
   - jekyll-include-cache-0.2.0
 exclude:
@@ -9,5 +8,7 @@ exclude:
   - vendor/
   - .gitignore
   - .markdownlint.json
+  - Gemfile
+  - Gemfile.lock
   - LICENSE
   - README.md
