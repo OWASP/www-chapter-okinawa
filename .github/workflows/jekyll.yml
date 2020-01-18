@@ -17,36 +17,19 @@ jobs:
         run: |
           echo "repository: ${{ github.repository }}" >> ${{ github.workspace }}/_config.yml
 
-      # ファイルが存在しない場合に hashFiles() は失敗するので自前で計算する
-      - name: Get Gemfile.lock hash
-        id: gemfile-hash
-        env:
-          hash_id: ab5eb5110e11bc2d855608abce7719ab3544561eb8b59d34a159d66f609164d2
-        run: |
-          echo "::set-output name=hash::$( \( sha256sum ${{ github.workspace }}/Gemfile.lock | cut -d ' ' -f 1 \) || echo ${hash_id} )"
       - name: Cache Gems
         uses: actions/cache@v1
         with:
           path: ${{ github.workspace }}/vendor/bundle
-          key: ${{ runner.os }}-gems-${{ steps.gemfile-hash.outputs.hash }}
+          key: v1-bundle-${{ runner.os }}-${{ github.sha }}
           restore-keys: |
+            v1-bundle-${{ runner.os }}-
             ${{ runner.os }}-gems-
 
-#      - name: Cache Gems
-#        uses: actions/cache@v1
-#        with:
-#          path: ${{ github.workspace }}/vendor/bundle
-#          key: ${{ runner.os }}-gems-${{ hashFiles('Gemfile.lock') }}
-#          restore-keys: |
-#            ${{ runner.os }}-gems-
-
+      # chmodを消すと権限エラーになるので消さないこと。
       - name: Build the site in the jekyll/builder container
         run: |
           docker run \
-          -v ${{ github.workspace }}:/srv/jekyll \
-          -v ${{ github.workspace }}/vendor/bundle:/usr/local/bundle \
-          jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
-
-      - name: Get Gemfile.lock hash
-        run: |
-          echo "${{ hashFiles('Gemfile.lock') }}"
+            -v ${{ github.workspace }}:/srv/jekyll \
+            -v ${{ github.workspace }}/vendor/bundle:/usr/local/bundle \
+            jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
