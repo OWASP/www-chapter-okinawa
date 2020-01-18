@@ -14,6 +14,16 @@ $(function() {
     }
 });
 </script>
+<style>
+.local-chapter-supporter {
+    width: 100%;
+}
+.local-chapter-supporter td {
+    width: 50%;
+    padding: 15px;
+    text-align: center;
+}
+</style>
 
 # OWASP Okinawaチャプターのホームページへようこそ
 
@@ -71,20 +81,22 @@ OWASP Okinawaチャプターは個人会員の皆様や下記の企業様、学�
 
 ### Local Chapter Supporter
 
-<table cellpadding="15" cellspacing="0">
+<table class="local-chapter-supporter">
+<tbody>
     <tr>
-        <td><a href="https://www.cyberagent.co.jp/" target="_blank" rel="noopener"><img src="assets/images/ca_logo_rgb_150x45.png" alt="株式会社サイバーエージェント"></a></td>
-        <td><a href="https://www.ca-adv.co.jp/" target="_blank" rel="noopener"><img src="assets/images/caadvance_logo_150x45.png" alt="株式会社シーエー・アドバンス"></a></td>
+        <td><a href="https://www.cyberagent.co.jp/" target="_blank" rel="noopener sponsored"><img src="assets/images/ca_logo_rgb_150x45.png" alt="株式会社サイバーエージェント"><br>株式会社サイバーエージェント</a> 様</td>
+        <td><a href="https://www.ca-adv.co.jp/" target="_blank" rel="noopener sponsored"><img src="assets/images/caadvance_logo_150x45.png" alt="株式会社シーエー・アドバンス"><br>株式会社シーエー・アドバンス</a> 様</td>
     </tr>
+</tbody>
 </table>
 
 ### Single Meeting Supporter
 
-過去1年間のイベントに会場をご提供頂いた企業様、学校様です。
+過去1年間のイベントで会場をご提供頂いた企業様、学校様です。
 
-* [学校法人ＫＢＣ学園　専修学校 国際電子ビジネス専門学校](http://www.kbc.ac.jp/) 様
-* [株式会社サイダス](http://www.cydas.com/) 様
-* [株式会社モノクラム](https://www.monocram.co.jp/) 様
+* [学校法人ＫＢＣ学園 専修学校 国際電子ビジネス専門学校](https://www.kbc.ac.jp/){:target="_blank"}{:rel="noopener sponsored"} 様
+* [株式会社サイダス](http://www.cydas.com/){:target="_blank"}{:rel="noopener sponsored"} 様
+* [株式会社モノクラム](https://www.monocram.co.jp/){:target="_blank"}{:rel="noopener sponsored"} 様
 
 ### List of Donors
 
