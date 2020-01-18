@@ -90,9 +90,9 @@ OWASP Okinawaチャプターは個人会員の皆様や下記の企業様、学�
 
 [Donate](/donate/?reponame=www-chapter-okinawa&title=OWASP+Okinawa)ページで"Publicly list me as a supporter of OWASP Okinawa"を選択して寄付していただいた方々のリストです。
 
-{% assign donors = site.data.ow_attributions | uniq %}
+{% assign donors = site.data.ow_attributions | uniq | default: 'こちらに名前が掲載されます' %}
 {% for donor in donors %}
-* {{ donor | strip }}
+* {{ donor | strip_html | strip }}
 {% endfor %}
 
 ### 各種会員制度、寄付、支援について
