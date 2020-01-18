@@ -24,7 +24,6 @@ jobs:
           key: v1-bundle-${{ runner.os }}-${{ github.sha }}
           restore-keys: |
             v1-bundle-${{ runner.os }}-
-            ${{ runner.os }}-gems-
 
       # chmodを消すと権限エラーになるので消さないこと。
       - name: Build the site in the jekyll/builder container
