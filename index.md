@@ -28,7 +28,7 @@ OWASP Okinawaチャプターは日本で6番目に発足したローカルチャ
 * [OWASP Okinawaメーリングリスト](https://groups.google.com/a/owasp.org/forum/#!forum/okinawa-chapter/join)に参加してください。イベント開催情報の告知などが行われます。
     * [Googleグループ](https://groups.google.com/a/owasp.org/d/forum/okinawa-chapter)に移行する前のメールアーカイブは[こちら](http://lists.owasp.org/pipermail/owasp-okinawa/)です。
 * ソーシャル・ネットワークもあります。
-    * Twitter: [@OwaspOkinawa](http://www.twitter.com/owaspokinawa)
+    * Twitter: [@OwaspOkinawa](https://twitter.com/owaspokinawa)
     * Facebook: [OWASP Okinawa](https://www.facebook.com/owaspokinawa/)
 * [Code of Conduct](/www-policy/operational/code-of-conduct.html)
 
