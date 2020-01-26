@@ -77,9 +77,11 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 
 また、個人会員、企業会員、またアカデミックサポーターになることの価値についてもぜひご検討ください。
 
-OWASP Okinawaチャプターは個人会員の皆様や下記の企業様、学校様のご支援を受けています。ありがとうございます。
+OWASP Okinawaチャプターは個人会員の皆様や下記の企業様、学校様のご支援を頂いています。お礼申し上げます。
 
 ### Local Chapter Supporter
+
+Local Chapter Supporterとして下記の企業様にご支援を頂いています。
 
 <table class="local-chapter-supporter">
 <tbody>
@@ -92,7 +94,7 @@ OWASP Okinawaチャプターは個人会員の皆様や下記の企業様、学�
 
 ### Single Meeting Supporter
 
-過去1年間のイベントで会場をご提供頂いた企業様、学校様です。
+過去1年間にイベント会場のご支援を頂いた企業様、学校様です。
 
 * [学校法人ＫＢＣ学園 専修学校 国際電子ビジネス専門学校](https://www.kbc.ac.jp/){:target="_blank"}{:rel="noopener sponsored"} 様
 * [株式会社サイダス](http://www.cydas.com/){:target="_blank"}{:rel="noopener sponsored"} 様
