@@ -139,7 +139,7 @@ Local Chapter Supporterとして下記の企業様にご支援を頂いていま
     * このページに少なくとも1年間はリンクの設置をいたします。
     * イベントのオープニング時にSingle Meeting Supporterとしてロゴと企業名あるいは団体名を紹介いたします。
 * [その他の支援](/www-policy/operational/chapters.html#chapter-sponsors--local-and-global):
-    * [OWASPへの寄付](/donate/?reponame=www-chapter-okinawa&title=OWASP+Okinawa)。上記のDonationsもご一読下さい。
+    * [OWASPへの寄付](/donate/?reponame=www-chapter-okinawa&title=OWASP+Okinawa)。上記の[Donations](/www-policy/operational/donations.html)もご一読下さい。
     * 有償の貢献だけでなく、あなたのプロジェクト参画やイベント参加もOWASPへの貢献になり、歓迎します。
     * Chapter Meetingの会場をお貸しいただける企業様、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ私たちまでご連絡ください。
     * スピーカー希望の方は[Speaker Agreement](/www-policy/legal/speaker-agreement.html)([日本語訳](https://www.owasp.org/index.php/Speaker_Agreement:%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3))をご一読下さい。
