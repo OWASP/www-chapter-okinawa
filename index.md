@@ -9,7 +9,7 @@ region: Asia
 <script>
 $(function() {
     // Activate main tab if there is no active tab
-    if ($('.tab-link').has('current').length == 0) {
+    if ($('.tab-link.current').length == 0) {
         $('#main-link').click();
     }
 });
