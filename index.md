@@ -88,8 +88,8 @@ Local Chapter Supporterとして下記の企業様にご支援を頂いていま
 <table class="local-chapter-supporter">
 <tbody>
     <tr>
-        <td><a href="https://www.cyberagent.co.jp/" target="_blank" rel="noopener sponsored"><img src="assets/images/ca_logo_rgb_150x45.png" alt="株式会社サイバーエージェント"><br>株式会社サイバーエージェント</a> 様</td>
-        <td><a href="https://www.ca-adv.co.jp/" target="_blank" rel="noopener sponsored"><img src="assets/images/caadvance_logo_150x45.png" alt="株式会社シーエー・アドバンス"><br>株式会社シーエー・アドバンス</a> 様</td>
+        <td><a href="https://www.cyberagent.co.jp/" target="_blank" rel="noopener sponsored"><img src="assets/images/ca_logo_rgb_150x45.png" alt="株式会社サイバーエージェント" width="150" height="45" loading="lazy"><br>株式会社サイバーエージェント</a> 様</td>
+        <td><a href="https://www.ca-adv.co.jp/" target="_blank" rel="noopener sponsored"><img src="assets/images/caadvance_logo_150x45.png" alt="株式会社シーエー・アドバンス" width="150" height="45" loading="lazy"><br>株式会社シーエー・アドバンス</a> 様</td>
     </tr>
 </tbody>
 </table>
