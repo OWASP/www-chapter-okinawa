@@ -11,6 +11,21 @@ tags: okinawa
 
 ### 2019
 
+### 2019/12/13 OWASP Evening Okinawa \#14
+
+* 日時: 12月13日金曜日 18:30スタート
+    * 会場: 株式会社モノクラム 様
+    * 入場無料
+    * 定員: 30人
+    * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.doorkeeper.jp/events/100700>
+* プログラム
+    * セッション「OWASP Top 10 2017 A8:2017 - 安全でないデシリアライゼーション」伊波さん(15分)
+    * セッション「自動で脆弱性診断を行うOWASP ZAP環境(in docker)の話」飯田さん(30分)
+    * LT
+        * 「タイトル未定」島尻さん(10分)
+        * 「開発未経験者がセキュリティエンジニアとしてキャリアを模索する話 Part2」石嶺さん(10分)
+        * 「Road to Ethical Hacker」多和田さん(10分)
+
 #### 2019/10/12 Attack & Defense in Okinawa \#2
 
 * 日時: 10月12日土曜日 13:00スタート
