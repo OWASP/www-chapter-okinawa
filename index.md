@@ -86,8 +86,6 @@ Local Chapter Supporterとして下記の企業様にご支援を頂いていま
 
 過去1年間にイベント会場のご支援を頂いた企業様、学校様です。
 
-* [学校法人ＫＢＣ学園 専修学校 国際電子ビジネス専門学校](https://www.kbc.ac.jp/){:target="_blank"}{:rel="noopener sponsored"} 様
-* [株式会社サイダス](http://www.cydas.com/){:target="_blank"}{:rel="noopener sponsored"} 様
 * [株式会社モノクラム](https://www.monocram.co.jp/){:target="_blank"}{:rel="noopener sponsored"} 様
 
 ### List of Donors
@@ -104,29 +102,24 @@ Local Chapter Supporterとして下記の企業様にご支援を頂いていま
 さまざまな会員の種類や支援の種類があります。詳細は[Membership](/www-policy/operational/membership.html)をご覧ください。
 
 * [Individual Membership(個人)](/membership/): 50ドル(年間)、500ドル(ライフタイム)
-    * owasp.orgメールアドレス付与。
+    * owasp.orgメールアドレス付与(メンバーシップが有効な間のみ)。
     * 会員限定のニュース配信。
     * OWASPの組織の投票への参加。
     * 学生あるいは地域によっては割引もあります。
-    * ローカルミーティングへの優先入場を提供することもあります。
-* [Corporate Membership(企業・団体)](/supporters/): 5000ドル(年間)から。金額に応じてプランがあります
+* [Corporate Membership(企業・団体)](/supporters/): 5000ドル(年間)から。詳細はリンク先をご確認ください。
     * owasp.orgサイト全体でCorporate Supporterとしてローテーションでロゴの掲載が行われます(ページ下部参照)。
     * OWASPグローバルイベントにおける特典。
 * [Local Chapter Supporter(企業・団体)](/www-policy/operational/chapters.html#chapter-sponsors--local-and-global): 500ドル(年間)から。
+    * **2020/09/12現在、ポリシーの見直しが行われています。内容は変更になる可能性があります。**
     * このページに少なくとも1年間はロゴの掲示、リンクの設置をいたします。
     * イベントのオープニング時にLocal Chapter Supporterとしてロゴと企業名あるいは団体名を紹介いたします。
     * [Donations](/www-policy/operational/donations.html)もご一読下さい。
-    * 無制限のギフト
-        * OWASP Foundationへの寄付は、通常、すべて無制限です。OWASP Foundationの使命と目的を達成するために、組織の独自の裁量により利用されます。
-        * 無制限のギフトの場合でも、寄付時のオプション選択で、プロジェクトやチャプターにサポーターとして名前の掲載が可能です。
-    * 制限されたギフト
-        * 1,000ドル以上の場合は、その年の間、Okinawaチャプターでの利用に限定した寄付が可能ですが、制限されたギフトはOWASP Foundationの会計処理のためのオーバーヘッドが生じるため推奨されません。
-        * 制限されたギフトの15%が処理と管理のために利用されます。
-        * 未使用の制限されたギフトの残高はその年の終わりに無制限になります。
 * [Single Meeting Supporter(会場支援)](/www-policy/operational/chapters.html#chapter-sponsors--local-and-global)
+    * **2020/09/12現在、ポリシーの見直しが行われています。内容は変更になる可能性があります。**
     * このページに少なくとも1年間はリンクの設置をいたします。
     * イベントのオープニング時にSingle Meeting Supporterとしてロゴと企業名あるいは団体名を紹介いたします。
 * [その他の支援](/www-policy/operational/chapters.html#chapter-sponsors--local-and-global):
+    * **2020/09/12現在、ポリシーの見直しが行われています。内容は変更になる可能性があります。**
     * [OWASPへの寄付](/donate/?reponame=www-chapter-okinawa&title=OWASP+Okinawa)。上記の[Donations](/www-policy/operational/donations.html)もご一読下さい。
     * 有償の貢献だけでなく、あなたのプロジェクト参画やイベント参加もOWASPへの貢献になり、歓迎します。
     * Chapter Meetingの会場をお貸しいただける企業様、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ私たちまでご連絡ください。
