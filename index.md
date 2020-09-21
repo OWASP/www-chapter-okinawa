@@ -34,6 +34,7 @@ OWASP Okinawaチャプターは日本で6番目に発足したローカルチャ
 ## Owasp Okinawaに参加するには
 
 * OWASP Okinawaが主催・参画するイベントに、どうぞご参加ください。
+    * 2020/09/21にイベントページを変更しました。今後は[こちら](https://owasp-okinawa.connpass.com/)でイベントページを公開します。
 * ローカルチャプターミーティングとして、およそ、3ヶ月に一度の頻度でイベントを開催しています。
 * [OWASP Okinawaメーリングリスト](https://groups.google.com/a/owasp.org/forum/#!forum/okinawa-chapter/join)に参加してください。イベント開催情報の告知などが行われます。
     * [Googleグループ](https://groups.google.com/a/owasp.org/d/forum/okinawa-chapter)に移行する前のメールアーカイブは[こちら](http://lists.owasp.org/pipermail/owasp-okinawa/)です。
@@ -54,7 +55,7 @@ OWASP Okinawaチャプターは日本で6番目に発足したローカルチャ
 
 OWASP OkinawaはOWASP Eveningとして、セミナーや持ち込みのライトニングトークの形で行われる、Webセキュリティに関心のある方が集う、楽しくカジュアルな勉強会を開催しています。スキル、役職、業種、国籍、性別、年齢関係なく、遠慮なくお越しください。およそ、3ヶ月に一度の頻度で、このミーティングを開催しています。
 
-新型コロナウイルス(COVID-19)の流行のため、2020年3月に予定していたイベントは中止しました。次回のイベントについては調整中です。  
+新型コロナウイルス(COVID-19)の流行のため、2020年3月に予定していたイベントは中止しました。次回のイベントは未定です。  
 開催が決まり次第、このページやメーリングリスト、Facebook、Twitterで告知いたします。
 
 ## 会員制度 / チャプタースポンサーシップ
