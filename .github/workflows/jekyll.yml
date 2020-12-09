@@ -18,12 +18,12 @@ jobs:
           echo "repository: ${{ github.repository }}" >> ${{ github.workspace }}/_config.yml
 
       - name: Cache Gems
-        uses: actions/cache@v1
+        uses: actions/cache@v2
         with:
           path: ${{ github.workspace }}/vendor/bundle
-          key: v1-bundle-${{ runner.os }}-${{ github.sha }}
+          key: v2-bundle-${{ runner.os }}-${{ github.sha }}
           restore-keys: |
-            v1-bundle-${{ runner.os }}-
+            v2-bundle-${{ runner.os }}-
 
       # chmodを消すと権限エラーになるので消さないこと。
       - name: Build the site in the jekyll/builder container
