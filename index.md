@@ -4,6 +4,8 @@ title: OWASP Okinawa
 tags: okinawa
 level: 0
 region: Asia
+meetup-group: owasp-okinawa-chapter
+postal-code: 900-0000
 ---
 
 <script>
