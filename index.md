@@ -39,7 +39,7 @@ OWASP Okinawaチャプターは日本で6番目に発足したローカルチャ
     * 2020/09/21にイベントページを変更しました。今後は[こちら](https://owasp-okinawa.connpass.com/)でイベントページを公開します。
 * ローカルチャプターミーティングとして、およそ、3ヶ月に一度の頻度でイベントを開催しています。
 * [OWASP Okinawaメーリングリスト](https://groups.google.com/a/owasp.org/forum/#!forum/okinawa-chapter/join)に参加してください。イベント開催情報の告知などが行われます。
-    * [Googleグループ](https://groups.google.com/a/owasp.org/d/forum/okinawa-chapter)に移行する前のメールアーカイブは[こちら](http://lists.owasp.org/pipermail/owasp-okinawa/)です。
+    * [Googleグループ](https://groups.google.com/a/owasp.org/g/okinawa-chapter)に移行する前のメールアーカイブは[こちら](https://lists.owasp.org/pipermail/owasp-okinawa/index)です。
 * ソーシャル・ネットワークもあります。
     * Twitter: [@OwaspOkinawa](https://twitter.com/owaspokinawa)
     * Facebook: [OWASP Okinawa](https://www.facebook.com/owaspokinawa/)
