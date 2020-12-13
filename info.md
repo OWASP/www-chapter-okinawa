@@ -6,3 +6,4 @@
 * [Meeting: connpass](https://owasp-okinawa.connpass.com/)
 * [Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/okinawa-chapter)
 * [Google Calendar: OWASP Event](https://calendar.google.com/calendar/embed?src=hl6cjgs6ep1h7oniqgueu2bhbo%40group.calendar.google.com)
+* [Old Site](https://wiki.owasp.org/index.php/Okinawa)
