@@ -5,6 +5,7 @@ tags: okinawa
 level: 0
 region: Asia
 meetup-group: owasp-okinawa-chapter
+country: Japan
 postal-code: 900-0000
 ---
 
