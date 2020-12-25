@@ -44,9 +44,10 @@ OWASP Okinawaチャプターは日本で6番目に発足したローカルチャ
 * ソーシャル・ネットワークもあります。
     * Twitter: [@OwaspOkinawa](https://twitter.com/owaspokinawa)
     * Facebook: [OWASP Okinawa](https://www.facebook.com/owaspokinawa/)
-* [Code of Conduct](/www-policy/operational/code-of-conduct.html)
+* [Code of Conduct](/www-policy/operational/code-of-conduct.html)をご一読ください。
+* スピーカー希望の方は[Speaker Agreement](/www-policy/legal/speaker-agreement.html)もご一読下さい。
 
-## メーリングリストへの参加方法
+### メーリングリストへの参加方法
 
 * メーリングリストに参加したいGoogleアカウント(@owasp.orgや@gmail.comなど)でログインした状態で[OWASP Okinawaメーリングリスト](https://groups.google.com/a/owasp.org/forum/#!forum/okinawa-chapter/join)にアクセスして「グループへの参加を申し込む」をクリックしてください。あるいは[このリンク](https://groups.google.com/a/owasp.org/forum/#!forum/okinawa-chapter/join)をクリックしてください。
 * Googleアカウントをお持ちでない場合は okinawa-chapter+subscribe＠owasp.org 宛にメールを送信してください(＠を半角@に変換してください)。その後届くメールに返信することで参加のリクエストが送信されます。残念ですが購読を止めたい場合は okinawa-chapter+unsubscribe＠owasp.org 宛にメールを送信してください(＠を半角@に変換してください)
@@ -76,13 +77,25 @@ OWASP OkinawaはOWASP Eveningとして、セミナーや持ち込みのライト
 
 OWASPの各Projectやチャプターの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらはメンバーシップ会費やチャプターサポーターによるスポンサーなどのコントリビューションによって賄われています。
 
-ローカルチャプターのスポンサーはOWASP Foundationを通してお申し込みください。詳細は[Chapters](/www-policy/operational/chapters.html)ページの[Chapter Sponsors](/www-policy/operational/chapters.html#chapter-sponsors--local-and-global)をご確認ください。皆様のご支援を歓迎しています。
-
-また、個人会員、企業会員、またアカデミックサポーターになることの価値についてもぜひご検討ください。
-
-OWASP Okinawaチャプターは個人会員の皆様や下記の企業様、学校様のご支援を頂いています。お礼申し上げます。
+OWASP Okinawaチャプターは個人会員の皆様や下記の企業様、学校様、Donor様のご支援を頂いています。お礼申し上げます。
 
 The OWASP Foundation is very grateful for the support by the individuals and organizations listed. However please note, the OWASP Foundation is strictly vendor neutral and does not endorse any of its supporters.
+
+### 会員制度について
+
+[Membership](/www-policy/operational/membership.html)のページをご覧ください。
+
+* [個人: 50ドル(年間)、500ドル(ライフタイム)](/membership/)
+    * owasp.orgメールアドレス付与(メンバーシップが有効な間のみ)。
+    * 会員限定のニュース配信。
+    * OWASPの組織の投票への参加。
+
+<!--
+* [Single Meeting Supporter(会場支援)](/www-policy/operational/chapters.html#chapter-sponsors--local-and-global)
+    * **2020/09/12現在、ポリシーの見直しが行われています。内容は変更になる可能性があります。**
+    * このページに少なくとも1年間はリンクの設置をいたします。
+    * イベントのオープニング時にSingle Meeting Supporterとしてロゴと企業名あるいは団体名を紹介いたします。
+-->
 
 ### Local Chapter Supporter
 
@@ -97,11 +110,13 @@ Local Chapter Supporterとして下記の企業様にご支援を頂いていま
 </tbody>
 </table>
 
+<!--
 ### Single Meeting Supporter
 
 過去1年間にイベント会場のご支援を頂いた企業様、学校様です。
 
-* [株式会社モノクラム](https://www.monocram.co.jp/){:target="_blank"}{:rel="noopener sponsored"} 様
+* [](){:target="_blank"}{:rel="noopener sponsored"} 様
+-->
 
 ### List of Donors
 
@@ -111,31 +126,3 @@ Local Chapter Supporterとして下記の企業様にご支援を頂いていま
 {% for donor in donors %}
 * {{ donor | strip_html | strip }}
 {% endfor %}
-
-### 各種会員制度、寄付、支援について
-
-さまざまな会員の種類や支援の種類があります。詳細は[Membership](/www-policy/operational/membership.html)をご覧ください。
-
-* [Individual Membership(個人)](/membership/): 50ドル(年間)、500ドル(ライフタイム)
-    * owasp.orgメールアドレス付与(メンバーシップが有効な間のみ)。
-    * 会員限定のニュース配信。
-    * OWASPの組織の投票への参加。
-    * 学生あるいは地域によっては割引もあります。
-* [Corporate Membership(企業・団体)](/supporters/): 5000ドル(年間)から。詳細はリンク先をご確認ください。
-    * owasp.orgサイト全体でCorporate Supporterとしてローテーションでロゴの掲載が行われます(ページ下部参照)。
-    * OWASPグローバルイベントにおける特典。
-* [Local Chapter Supporter(企業・団体)](/www-policy/operational/chapters.html#chapter-sponsors--local-and-global): 500ドル(年間)から。
-    * **2020/09/12現在、ポリシーの見直しが行われています。内容は変更になる可能性があります。**
-    * このページに少なくとも1年間はロゴの掲示、リンクの設置をいたします。
-    * イベントのオープニング時にLocal Chapter Supporterとしてロゴと企業名あるいは団体名を紹介いたします。
-    * [Donations](/www-policy/operational/donations.html)もご一読下さい。
-* [Single Meeting Supporter(会場支援)](/www-policy/operational/chapters.html#chapter-sponsors--local-and-global)
-    * **2020/09/12現在、ポリシーの見直しが行われています。内容は変更になる可能性があります。**
-    * このページに少なくとも1年間はリンクの設置をいたします。
-    * イベントのオープニング時にSingle Meeting Supporterとしてロゴと企業名あるいは団体名を紹介いたします。
-* [その他の支援](/www-policy/operational/chapters.html#chapter-sponsors--local-and-global):
-    * **2020/09/12現在、ポリシーの見直しが行われています。内容は変更になる可能性があります。**
-    * [OWASPへの寄付](/donate/?reponame=www-chapter-okinawa&title=OWASP+Okinawa)。上記の[Donations](/www-policy/operational/donations.html)もご一読下さい。
-    * 有償の貢献だけでなく、あなたのプロジェクト参画やイベント参加もOWASPへの貢献になり、歓迎します。
-    * Chapter Meetingの会場をお貸しいただける企業様、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ私たちまでご連絡ください。
-    * スピーカー希望の方は[Speaker Agreement](/www-policy/legal/speaker-agreement.html)([日本語訳](https://www.owasp.org/index.php/Speaker_Agreement:%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3))をご一読下さい。
