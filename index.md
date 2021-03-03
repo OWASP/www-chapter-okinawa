@@ -77,10 +77,6 @@ OWASP Okinawaはセミナーや持ち込みのライトニングトークの形�
 
 OWASPの各Projectやチャプターの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらはメンバーシップ会費やチャプターサポーターによるスポンサーなどのコントリビューションによって賄われています。
 
-OWASP Okinawaチャプターは個人会員の皆様や下記の企業様、学校様、Donor様のご支援を頂いています。お礼申し上げます。
-
-The OWASP Foundation is very grateful for the support by the individuals and organizations listed. However please note, the OWASP Foundation is strictly vendor neutral and does not endorse any of its supporters.
-
 ### 会員制度について
 
 [Membership](/www-policy/operational/membership.html)のページをご覧ください。
@@ -89,34 +85,7 @@ The OWASP Foundation is very grateful for the support by the individuals and org
     * owasp.orgメールアドレス付与(メンバーシップが有効な間のみ)。
     * 会員限定のニュース配信。
     * OWASPの組織の投票への参加。
-
-<!--
-* [Single Meeting Supporter(会場支援)](/www-policy/operational/chapters.html#chapter-sponsors--local-and-global)
-    * **2020/09/12現在、ポリシーの見直しが行われています。内容は変更になる可能性があります。**
-    * このページに少なくとも1年間はリンクの設置をいたします。
-    * イベントのオープニング時にSingle Meeting Supporterとしてロゴと企業名あるいは団体名を紹介いたします。
--->
-
-### Local Chapter Supporter
-
-Local Chapter Supporterとして下記の企業様にご支援を頂いています。
-
-<table class="local-chapter-supporter">
-<tbody>
-    <tr>
-        <td><a href="https://www.cyberagent.co.jp/" target="_blank" rel="noopener sponsored"><img src="assets/images/ca_logo_rgb_150x45.png" alt="株式会社サイバーエージェント" width="150" height="45" loading="lazy"><br>株式会社サイバーエージェント</a> 様</td>
-        <td><a href="https://www.ca-adv.co.jp/" target="_blank" rel="noopener sponsored"><img src="assets/images/caadvance_logo_150x45.png" alt="株式会社シーエー・アドバンス" width="150" height="45" loading="lazy"><br>株式会社シーエー・アドバンス</a> 様</td>
-    </tr>
-</tbody>
-</table>
-
-<!--
-### Single Meeting Supporter
-
-過去1年間にイベント会場のご支援を頂いた企業様、学校様です。
-
-* [](){:target="_blank"}{:rel="noopener sponsored"} 様
--->
+    * 詳細は[Individual Membership](/membership/)をご確認ください。
 
 ### List of Donors
 
