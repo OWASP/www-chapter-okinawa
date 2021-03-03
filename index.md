@@ -71,7 +71,7 @@ OWASP Okinawaはセミナーや持ち込みのライトニングトークの形�
 
 ## 前回のイベント
 
-「過去のイベント」タブをご覧ください。
+「<a href="#div-pastevents" onclick="$('#pastevents-link').click();window.scrollTo({top:0,behavior:'smooth'});return false;">過去のイベント</a>」タブをご覧ください。
 
 ## 会員制度 / チャプタースポンサーシップ
 
