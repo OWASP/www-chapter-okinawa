@@ -61,7 +61,9 @@ OWASP Okinawaはセミナーや持ち込みのライトニングトークの形�
 
 ### 2021/04/14 OWASP Night Okinawa \#16
 
-* 日時: 04月14日水曜日 19:00スタート
+今回はOWASP [Sendai](/www-chapter-sendai/)/[Nagoya](/www-chapter-nagoya/)/[Fukuoka](/www-chapter-fukuoka/)とのリレー開催です。18:30からOWASP Sendai、19:00からOWASP Nagoya、19:45からFukuoka、20:30からOWASP Okinawaとなります。参加登録はSendai、Nagoya、Fukuoka、Okinawaのどこからお申込みいただいてもすべてにご参加いただけます。Youtube LiveのURLは共通です、どちらからでも参加可能です。
+
+* 日時: 04月14日水曜日 18:30スタート
     * 会場: オンライン
     * 料金: 無料
     * 定員: (調整中)
