@@ -1,5 +1,5 @@
 ### Okinawa Chapter Links
-
+* [Meetup](https://www.meetup.com/owasp-okinawa-chapter/)
 * [Mailing List: Google Group](https://groups.google.com/a/owasp.org/g/okinawa-chapter)
 * [Facebook page](https://www.facebook.com/owaspokinawa/)
 * [Facebook group](https://www.facebook.com/groups/217735745293766/)
