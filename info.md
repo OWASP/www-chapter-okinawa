@@ -9,3 +9,4 @@
 * [Old Mailing List(-2019/03)](https://lists.owasp.org/pipermail/owasp-okinawa/index)
 * [Old Meeting(-2019/12): Doorkeeper](https://owasp-okinawa.doorkeeper.jp/)
 * [Old Site(-2020/01)](https://wiki.owasp.org/index.php/Okinawa)
+* [このChapterのGitHubリポジトリ](https://github.com/OWASP/www-chapter-okinawa)
