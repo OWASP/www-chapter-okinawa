@@ -61,21 +61,19 @@ OWASP Okinawaチャプターは日本で6番目に発足したローカルチャ
 
 OWASP Okinawaはセミナーや持ち込みのライトニングトークの形で行われる、Webセキュリティに関心のある方が集う、楽しくカジュアルな勉強会を開催しています。スキル、役職、業種、国籍、性別、年齢関係なく、遠慮なくお越しください。およそ、3ヶ月に一度の頻度でイベントを開催しています。
 
-### 2021/04/14 OWASP Night Okinawa \#16
+次回のイベントが決まりましたらご案内いたします。
 
-今回はOWASP [Sendai](/www-chapter-sendai/)/[Nagoya](/www-chapter-nagoya/)/[Fukuoka](/www-chapter-fukuoka/)とのリレー開催です。18:30からOWASP Sendai、19:00からOWASP Nagoya、19:45からFukuoka、20:30からOWASP Okinawaとなります。参加登録はSendai、Nagoya、Fukuoka、Okinawaのどこからお申込みいただいてもすべてにご参加いただけます。Youtube LiveのURLは共通です、どちらからでも参加可能です。
+<!--
+### 2021/xx/xx OWASP Night Okinawa \#17
 
-* 日時: 04月14日水曜日 18:30スタート
+* 日時: xx月xx日x曜日 xx:xxスタート
     * 会場: オンライン
     * 料金: 無料
     * 定員: 100名
-    * 事前登録/registration(事前登録必要): <https://owasp-okinawa.connpass.com/event/205983/>
+    * 事前登録/registration(事前登録必要): <>
 * プログラム
-    * [18:30 OWASP Sendai](https://owaspsendai.connpass.com/event/205896/)
-    * [19:00 OWASP Nagoya](https://owaspnagoya.connpass.com/event/207131/)
-    * [19:45 OWASP Fukuoka](https://owasp-kyushu.connpass.com/event/205625/)
-    * 20:30 OWASP Okinawa
-        * 「脆弱性診断の内製化について(仮)」桃原さん
+    * 未定
+-->
 
 ## 前回のイベント
 

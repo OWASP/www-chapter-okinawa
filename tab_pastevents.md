@@ -9,6 +9,24 @@ tags: okinawa
 
 ## 過去のイベント
 
+### 2021
+
+#### 2021/04/14 OWASP Night Okinawa \#16
+
+今回はOWASP [Sendai](/www-chapter-sendai/)/[Nagoya](/www-chapter-nagoya/)/[Fukuoka](/www-chapter-fukuoka/)とのリレー開催です。18:30からOWASP Sendai、19:00からOWASP Nagoya、19:45からFukuoka、20:30からOWASP Okinawaとなります。参加登録はSendai、Nagoya、Fukuoka、Okinawaのどこからお申込みいただいてもすべてにご参加いただけます。Youtube LiveのURLは共通です、どちらからでも参加可能です。
+
+* 日時: 04月14日水曜日 18:30スタート
+    * 会場: オンライン
+    * 料金: 無料
+    * 定員: 100名
+    * 事前登録/registration(事前登録必要): <https://owasp-okinawa.connpass.com/event/205983/>
+* プログラム
+    * [18:30 OWASP Sendai](https://owaspsendai.connpass.com/event/205896/)
+    * [19:00 OWASP Nagoya](https://owaspnagoya.connpass.com/event/207131/)
+    * [19:45 OWASP Fukuoka](https://owasp-kyushu.connpass.com/event/205625/)
+    * 20:30 OWASP Okinawa
+        * 「脆弱性診断の内製化について(仮)」桃原さん
+
 ### 2020
 
 #### 2020/12/26 OWASP Night Okinawa \#15
