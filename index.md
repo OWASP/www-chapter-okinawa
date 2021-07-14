@@ -79,25 +79,17 @@ OWASP Okinawaはセミナーや持ち込みのライトニングトークの形�
 
 「<a href="#div-pastevents" onclick="$('#pastevents-link').click();window.scrollTo({top:0,behavior:'smooth'});return false;">過去のイベント</a>」タブをご覧ください。
 
-## 会員制度 / チャプタースポンサーシップ
+## 会員制度について
 
 OWASPの各Projectやチャプターの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらはメンバーシップ会費やチャプターサポーターによるスポンサーなどのコントリビューションによって賄われています。
 
-### 会員制度について
+寄付についてはページ右上の[Donate](/donate/?reponame=www-chapter-okinawa&title=OWASP+Okinawa)リンクから受け付けています。  
+<a href="/www-policy/operational/donations" target="_blank" rel="noopener">Donation Policy</a>をご一読ください。
 
-[Membership](/www-policy/operational/membership.html)のページをご覧ください。
+会員制度については[Membership Policy](/www-policy/operational/membership.html)をご覧ください。
 
 * [個人: 50ドル(年間)、500ドル(ライフタイム)](/membership/)
     * owasp.orgメールアドレス付与(メンバーシップが有効な間のみ)。
     * 会員限定のニュース配信。
     * OWASPの組織の投票への参加。
     * 詳細は[Individual Membership](/membership/)をご確認ください。
-
-### List of Donors
-
-[Donate](/donate/?reponame=www-chapter-okinawa&title=OWASP+Okinawa)ページで"Publicly list me as a supporter of OWASP Okinawa"を選択して寄付していただいた方々のリストです。
-
-{% assign donors = site.data.ow_attributions | uniq | default: 'こちらに名前が掲載されます' %}
-{% for donor in donors %}
-* {{ donor | strip_html | strip }}
-{% endfor %}
