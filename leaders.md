@@ -3,7 +3,5 @@
 * [Nobuho Matayoshi](mailto:nobuho.matayoshi@owasp.org)
 
 
-* Yuta Toubaru
 
-### Core Members
-* Naoki Toubaru
+
