@@ -10,6 +10,3 @@
 * [Old Meeting(-2019/12): Doorkeeper](https://owasp-okinawa.doorkeeper.jp/)
 * [Old Site(-2020/01)](https://wiki.owasp.org/index.php/Okinawa)
 * [このChapterのGitHubリポジトリ](https://github.com/OWASP/www-chapter-okinawa)
-
-### Core Members
-* Naoki Toubaru
