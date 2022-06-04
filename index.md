@@ -65,18 +65,9 @@ OWASP Okinawaはセミナーや持ち込みのライトニングトークの形�
     * 未定
 -->
 
+<!--
 ## 前回のイベント
-
-### 2021/09/25 OWASP Evening Okinawa \#17
-
-* 日時: 09月25日 土曜日 16:00スタート
-    * 会場: オンライン
-    * 料金: 無料
-    * 定員: 130名
-    * 事前登録/registration(事前登録必要): <https://owasp-okinawa.connpass.com/event/225366/>
-* プログラム
-    * セッション「A10:2017 - 不十分なロギングとモニタリング」又吉さん(30分)
-    * セッション「インシデントレスポンスの現場から」淵上さん(30-40分)
+-->
 
 「<a href="#div-pastevents" onclick="$('#pastevents-link').click();window.scrollTo({top:0,behavior:'smooth'});return false;">過去のイベント</a>」タブをご覧ください。
 
