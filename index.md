@@ -19,16 +19,6 @@ $(function() {
     }
 });
 </script>
-<style>
-.local-chapter-supporter {
-    width: 100%;
-}
-.local-chapter-supporter td {
-    width: 50%;
-    padding: 15px;
-    text-align: center;
-}
-</style>
 
 # OWASP Okinawaチャプターのホームページへようこそ
 
