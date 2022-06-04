@@ -1,5 +1,6 @@
 ---
 title: News
+displaytext: null
 layout: null
 tab: true
 order: 1

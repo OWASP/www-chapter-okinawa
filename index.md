@@ -11,6 +11,8 @@ meeting-plaform: connpass
 
 ---
 
+# OWASP Okinawaチャプターのホームページへようこそ
+
 <script>
 $(function() {
     // Activate main tab if there is no active tab
@@ -19,8 +21,6 @@ $(function() {
     }
 });
 </script>
-
-# OWASP Okinawaチャプターのホームページへようこそ
 
 OWASP - Open Web Application Security Project とは、Webをはじめとするソフトウェアのセキュリティ環境の現状、またセキュアなソフトウェア開発を促進する技術・プロセスに関する情報共有と普及啓発を目的としたプロフェッショナルの集まる、オープンソース・ソフトウェアコミュニティです。The OWASP Foundationは、NPO団体として全世界のOWASPの活動を支えています。
 
