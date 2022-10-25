@@ -7,7 +7,7 @@ level: 0
 region: Asia
 country: Japan
 postal-code: 900-0000
-meeting-plaform: connpass
+meeting-plaform: 
 
 ---
 
