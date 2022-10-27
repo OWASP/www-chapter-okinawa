@@ -35,14 +35,6 @@ OWASP Okinawaチャプターは日本で6番目に発足したローカルチャ
 * [Code of Conduct](/www-policy/operational/code-of-conduct.html)をご一読ください。
 * スピーカー希望の方は[Speaker Agreement](/www-policy/legal/speaker-agreement.html)もご一読下さい。
 
-### メーリングリストへの参加方法
-
-* メーリングリストに参加したいGoogleアカウント(@owasp.orgや@gmail.comなど)でログインした状態で[OWASP Okinawaメーリングリスト](https://groups.google.com/a/owasp.org/forum/#!forum/okinawa-chapter/join)にアクセスして「グループへの参加を申し込む」をクリックしてください。あるいは[このリンク](https://groups.google.com/a/owasp.org/forum/#!forum/okinawa-chapter/join)をクリックしてください。
-* Googleアカウントをお持ちでない場合は okinawa-chapter+subscribe＠owasp.org 宛にメールを送信してください(＠を半角@に変換してください)。その後届くメールに返信することで参加のリクエストが送信されます。残念ですが購読を止めたい場合は okinawa-chapter+unsubscribe＠owasp.org 宛にメールを送信してください(＠を半角@に変換してください)
-
-それぞれの参加方法の詳細はこちらの資料をご確認ください(日本語翻訳の作成に感謝します)  
-<https://docs.google.com/document/d/1sSZQRYZvsBbvu9c-okKID53RlmIc79xS8zRRnguR1uk>
-
 ## 次回のイベント
 
 OWASP Okinawaはセミナーや持ち込みのライトニングトークの形で行われる、Webセキュリティに関心のある方が集う、楽しくカジュアルな勉強会を開催しています。スキル、役職、業種、国籍、性別、年齢関係なく、遠慮なくお越しください。およそ、3ヶ月に一度の頻度でイベントを開催しています。
