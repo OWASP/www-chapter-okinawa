@@ -122,8 +122,8 @@ tags: okinawa
     * 入場無料
     * 定員: 30人
 * プログラム
-    * セッション「[OWASP Top 10 A5_2017 アクセス制御の不備](https://speakerdeck.com/owaspokinawa/owasp-top-10-a5-2017-akusesuzhi-yu-falsebu-bei)」稲福さん(30分)
-    * セッション「[OWASP Dependency Trackを使った脆弱性管理のFirst Step](https://speakerdeck.com/owaspokinawa/owasp-dependency-trackwoshi-tutacui-ruo-xing-guan-li-falsefirst-step)」野渡さん(30分)
+    * セッション「OWASP Top 10 A5_2017 アクセス制御の不備」稲福さん(30分)
+    * セッション「OWASP Dependency Trackを使った脆弱性管理のFirst Step」野渡さん(30分)
     * LT
         * 「[OWASP ZAPで脆弱性診断士気分を味わってみた話](https://speakerdeck.com/pirox07_dora/owasp-zapde-cui-ruo-xing-zhen-duan-shi-qi-fen-wowei-watutemitahua)」石川さん(10分)
         * 「webアプリケーションエンジニアを卒業して脆弱性診断員になった話」大城さん(10分)
@@ -280,10 +280,10 @@ tags: okinawa
     * 定員: 26人
 * プログラム
     * 「CISSPならこう考える \#1 情報セキュリティの基本とリスクマネジメント」淵上さん
-    * 「[Hardeningフィードバック](http://www.slideshare.net/nobuhomatayoshi/hardening-64379950)」又吉さん
+    * 「Hardeningフィードバック」又吉さん
     * LT
         * 「サイバーエージェントにおける脆弱性診断内製化の取り組み」野渡さん
-        * 「[Jenkins と owasp zap で自動診断](http://www.slideshare.net/OWASPOkinawa/jenkins-owasp-zap)」桃原さん
+        * 「Jenkins と owasp zap で自動診断」桃原さん
 
 #### 2016/04/02 OWASP Night Okinawa \#1
 
