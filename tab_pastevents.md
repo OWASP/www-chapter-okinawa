@@ -209,7 +209,7 @@ tags: okinawa
     * 定員: 30人
 * プログラム
     * 東京で開催される"OWASP World Training Tour 2017 TOKYO"の中継サテライト開催です
-    * official page: <https://www.owasp.org/index.php/2017_OWASP_World_Tour_Tokyo>
+    * official page: <https://wiki.owasp.org/index.php/2017_OWASP_World_Tour_Tokyo>
     * CFT page: <https://owasp.submittable.com/submit/91359/owasp-world-tour-tokyo-japan>
     * 東京イベントページ: <https://owasp.doorkeeper.jp/events/63959>
 
