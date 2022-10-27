@@ -63,7 +63,7 @@ OWASP Okinawaチャプターは日本で6番目に発足したローカルチャ
 
 OWASPの各Projectやチャプターの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらはメンバーシップ会費やチャプターサポーターによるスポンサーなどのコントリビューションによって賄われています。
 
-寄付についてはページ右上の[Donate](/donate/?reponame=www-chapter-okinawa&title=OWASP+Okinawa)リンクから受け付けています。  
+寄付についてはページ右上の[Donate](/donate/)リンクから受け付けています。  
 <a href="/www-policy/operational/donations" target="_blank" rel="noopener">Donation Policy</a>をご一読ください。
 
 会員制度については[Membership Policy](/www-policy/operational/membership.html)をご覧ください。
