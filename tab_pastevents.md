@@ -19,7 +19,6 @@ tags: okinawa
     * 会場: オンライン
     * 料金: 無料
     * 定員: 130名
-    * 事前登録/registration(事前登録必要): <https://owasp-okinawa.connpass.com/event/225366/>
 * プログラム
     * セッション「A10:2017 - 不十分なロギングとモニタリング」又吉さん(30分)
     * セッション「インシデントレスポンスの現場から」淵上さん(30-40分)
@@ -32,7 +31,6 @@ tags: okinawa
     * 会場: オンライン
     * 料金: 無料
     * 定員: 100名
-    * 事前登録/registration(事前登録必要): <https://owasp-okinawa.connpass.com/event/205983/>
 * プログラム
     * [18:30 OWASP Sendai](https://owaspsendai.connpass.com/event/205896/)
     * [19:00 OWASP Nagoya](https://owaspnagoya.connpass.com/event/207131/)
@@ -48,7 +46,6 @@ tags: okinawa
     * 会場: オンライン
     * 料金: 無料
     * 定員: 30人
-    * 事前登録/registration(ドタキャン禁止・事前登録必要): <https://owasp-okinawa.connpass.com/event/196936/>
 * プログラム
     * セッション「A9:2017-既知の脆弱性のあるコンポーネントの使用について」稲福さん(30分)
     * セッション「ペネトレーションテスト入門」安里さん(30分)
