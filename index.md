@@ -35,11 +35,11 @@ OWASP Okinawaチャプターは日本で6番目に発足したローカルチャ
 * [Code of Conduct](/www-policy/operational/code-of-conduct.html)をご一読ください。
 * スピーカー希望の方は[Speaker Agreement](/www-policy/legal/speaker-agreement.html)もご一読下さい。
 
-## 次回のイベント
+<!-- ## 次回のイベント -->
 
-OWASP Okinawaはセミナーや持ち込みのライトニングトークの形で行われる、Webセキュリティに関心のある方が集う、楽しくカジュアルな勉強会を開催しています。スキル、役職、業種、国籍、性別、年齢関係なく、遠慮なくお越しください。およそ、3ヶ月に一度の頻度でイベントを開催しています。
+<!-- OWASP Okinawaはセミナーや持ち込みのライトニングトークの形で行われる、Webセキュリティに関心のある方が集う、楽しくカジュアルな勉強会を開催しています。スキル、役職、業種、国籍、性別、年齢関係なく、遠慮なくお越しください。およそ、3ヶ月に一度の頻度でイベントを開催しています。 -->
 
-次回のイベントが決まりましたらご案内いたします。
+<!-- 次回のイベントが決まりましたらご案内いたします。 -->
 
 <!--
 ### 2021/xx/xx OWASP Night Okinawa \#xx
@@ -57,7 +57,7 @@ OWASP Okinawaはセミナーや持ち込みのライトニングトークの形�
 ## 前回のイベント
 -->
 
-「<a href="#div-pastevents" onclick="$('#pastevents-link').click();window.scrollTo({top:0,behavior:'smooth'});return false;">過去のイベント</a>」タブをご覧ください。
+<!-- 「<a href="#div-pastevents" onclick="$('#pastevents-link').click();window.scrollTo({top:0,behavior:'smooth'});return false;">過去のイベント</a>」タブをご覧ください。 -->
 
 ## 会員制度について
 
