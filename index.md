@@ -22,7 +22,7 @@ $(function() {
 });
 </script>
 
-OWASP - Open Web Application Security Project とは、Webをはじめとするソフトウェアのセキュリティ環境の現状、またセキュアなソフトウェア開発を促進する技術・プロセスに関する情報共有と普及啓発を目的としたプロフェッショナルの集まる、オープンソース・ソフトウェアコミュニティです。The OWASP Foundationは、NPO団体として全世界のOWASPの活動を支えています。
+The Open Worldwide Application Security Project<sup>&reg;</sup> (OWASP<sup>&reg;</sup>) とは、Webをはじめとするソフトウェアのセキュリティ環境の現状、またセキュアなソフトウェア開発を促進する技術・プロセスに関する情報共有と普及啓発を目的としたプロフェッショナルの集まる、オープンソース・ソフトウェアコミュニティです。 The OWASP Foundation は、NPO団体として全世界のOWASPの活動を支えています。
 
 OWASP Okinawaチャプターは日本で6番目に発足したローカルチャプターです。
 
