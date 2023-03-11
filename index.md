@@ -26,14 +26,14 @@ The Open Worldwide Application Security Project<sup>&reg;</sup> (OWASP<sup>&reg;
 
 OWASP Okinawaチャプターは日本で6番目に発足したローカルチャプターです。
 
-## Owasp Okinawaに参加するには
+<!-- ## Owasp Okinawaに参加するには -->
 
-* OWASP Okinawaが主催・参画するイベントに、どうぞご参加ください。
+<!-- * OWASP Okinawaが主催・参画するイベントに、どうぞご参加ください。
 * ローカルチャプターミーティングとして、およそ、3ヶ月に一度の頻度でイベントを開催しています。
 * [OWASP Okinawaメーリングリスト](https://groups.google.com/a/owasp.org/forum/#!forum/okinawa-chapter/join)に参加してください。イベント開催情報の告知などが行われます。
     * [Googleグループ](https://groups.google.com/a/owasp.org/g/okinawa-chapter)に移行する前のメールアーカイブは[こちら](https://lists.owasp.org/pipermail/owasp-okinawa/index)です。
 * [Code of Conduct](/www-policy/operational/code-of-conduct.html)をご一読ください。
-* スピーカー希望の方は[Speaker Agreement](/www-policy/legal/speaker-agreement.html)もご一読下さい。
+* スピーカー希望の方は[Speaker Agreement](/www-policy/legal/speaker-agreement.html)もご一読下さい。 -->
 
 <!-- ## 次回のイベント -->
 
