@@ -1,0 +1,24 @@
+leaders:
+  - name: Shinichi Fuchigami
+    email: shinichi.fuchigami@owasp.org
+  - name: Nobuho Matayoshi
+    email: nobuho.matayoshi@owasp.org
+    github: matayoshi
+location:
+  country: Japan
+  country_code: JP
+  region: Okinawa Prefecture
+  city: Okinawa
+  postal_code: 900-0000
+  latitude: 26.6496654
+  longitude: 127.8584621
+name: OWASP Okinawa
+repositories:
+  - name: www-chapter-okinawa
+    url: https://github.com/OWASP/www-chapter-okinawa
+    description: OWASP Foundation Web Repository
+tags:
+  - okinawa
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-okinawa
