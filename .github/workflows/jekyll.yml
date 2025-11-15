@@ -9,21 +9,21 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v5
 
       - name: Set environment
         run: |
           echo "repository: ${{ github.repository }}" >> ${{ github.workspace }}/_config.yml
 
       - name: Cache Gems
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: ${{ github.workspace }}/vendor/bundle
-          key: v2-bundle-${{ runner.os }}-${{ github.sha }}
+          key: v4-bundle-${{ runner.os }}-${{ github.sha }}
           restore-keys: |
-            v2-bundle-${{ runner.os }}-
+            v4-bundle-${{ runner.os }}-
 
       # chmodを消すと権限エラーになるので消さないこと。
       - name: Build the site in the jekyll/builder container
